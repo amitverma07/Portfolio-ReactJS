@@ -1,0 +1,81 @@
+.gradient {
+  background: linear-gradient(150deg, #7f70f5, #42a5f5);
+  color: #fff;
+}
+#jumbo1 {
+  text-align: left;
+  background-repeat: repeat-x;
+  margin: -1px;
+}
+.jumbotron {
+  background-color: white;
+}
+.jumbotron h1 {
+  color: #5a5a5a;
+  text-decoration: none;
+  font-weight: bold;
+}
+#jumbo1 h1 {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+#jumbo2 {
+  padding-top: 0px;
+}
+#jumbo2 .col-md-4 {
+  margin-top: 35px;
+}
+
+.fit-picture {
+  height: 200px;
+  width: 200px;
+  vertical-align: middle;
+  border-radius: 50%;
+  padding-top: 10px;
+}
+
+#swift {
+  color: #ffac45;
+  font-weight: bold;
+}
+#ruby {
+  color: #701516;
+  font-weight: bold;
+}
+#github {
+  color: #333;
+  border-radius: 10%;
+}
+#shopify {
+  color: #96bf48;
+}
+#wwdc {
+  color: #1da1f2;
+}
+.jumbotron hr {
+  width: 75%;
+  height: 3px;
+  border: 0 none;
+  background: #5a5a5a;
+  padding-bottom: 0px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.jumbotron p {
+  margin-top: 10px;
+  text-align: left;
+}
+@media (max-width: 767px) {
+  .jumbotron {
+    margin-top: 25px;
+  }
+  #jumbo2 p {
+    margin-top: 15px;
+    text-align: center;
+  }
+  .navbar-right {
+    visibility: hidden;
+  }
+}

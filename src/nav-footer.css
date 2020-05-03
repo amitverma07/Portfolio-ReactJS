@@ -1,0 +1,61 @@
+.gradient {
+  background: linear-gradient(150deg, #7f70f5, #42a5f5);
+  color: #fff;
+}
+.navbar-default {
+  margin-bottom: 0px;
+}
+.navbar-default div.navbar-collapse {
+  border-top: none;
+  box-shadow: none;
+}
+.navbar-default .navbar-toggle {
+  border-color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: white;
+}
+.navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar {
+  background-color: #42a5f5;
+}
+.navbar a {
+  font-weight: bold;
+  color: #fff;
+}
+.navbar-default .navbar-brand {
+  border-bottom: 2px solid #7f70f5;
+}
+.navbar-default .navbar-brand:hover ,.navbar-default .navbar-brand:focus {
+  border-bottom: 2px solid #fff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  border-bottom: 2px solid #42a5f5;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #fff;
+  border-bottom: 2px solid #fff;
+}
+@media (max-width: 767px) {
+  .navbar li {
+    padding-left: 15px;
+    text-align: left;
+  }
+}
+
+.jumbotron a {
+  text-decoration: none;
+  font-weight: bold;
+  border: solid 1px;
+  padding: 2px 4px 2px 4px;
+}
+
+@media (max-width: 767px) {
+  .jumbotron a {
+    padding: 1px 4px 1px 4px;
+  }
+}
+

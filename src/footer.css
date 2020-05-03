@@ -1,0 +1,119 @@
+footer hr {
+  width: 100%;
+  height: 1px;
+  border: 0 none;
+  background: #ddd;
+}
+footer {
+  background-color: #eee;
+  padding-bottom: 100px;
+}
+.fa-stack.fa-2x {
+  color: #5a5a5a;
+}
+.fa-stack:hover .fa-circle {
+  color: #42a5f5;
+}
+.section .sayhello {
+  padding-top: 10px;
+}
+.section .sayhello p {
+  font-size: 15px;
+  margin-left: 4px;
+}
+.madewithlove {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+ul.tools li,
+ul.hobbies li {
+  list-style: none;
+  display: inline-block;
+  background-size: 500px;
+  margin-left: 17px;
+}
+section.sayhello {
+  background: #fff;
+  position: relative;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  border-right: 20px solid white;
+  border-left: 20px solid white;
+}
+section.sayhello h1 {
+  color: #000;
+  font-family: "Sacramento";
+  font-size: 65px;
+}
+section.sayhello p {
+  color: #848484;
+  margin: 0 auto;
+  font-size: 17px;
+  margin-left: 4px;
+}
+section.sayhello ul.icons {
+  margin: 0;
+  padding: 0;
+  float: right;
+  line-height: 0;
+}
+section.sayhello ul.icons li {
+  display: inline-block;
+  -webkit-transition: all 0.35s ease;
+  -moz-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  margin: 30px 0px 20px 0px;
+  margin-left: 20px;
+}
+.fa-facebook-square {
+  font-size: 3em !important;
+  color: #3b5998;
+}
+.fa-linkedin {
+  font-size: 3em !important;
+  color: #287bbc;
+}
+.fa-twitter-square {
+  font-size: 3em !important;
+  color: #1b95e0;
+}
+.fa-envelope {
+  font-size: 3em !important;
+  color: #181818;
+}
+.fa-github-square {
+  font-size: 3em !important;
+  color: #01090f;
+}
+.fa-heart {
+  color: red;
+  font-size: 15px;
+}
+.footTitle {
+  font-family: "Sacramento", cursive;
+  text-transform: none;
+  font-weight: 400;
+  color: #41b0bf !important;
+  font-size: 3em !important;
+}
+.pad10 {
+  padding: 10px;
+}
+.large-4 {
+  width: 33.33333%;
+}
+.row.collapse > .columns {
+  padding-left: 0;
+  padding-right: 0;
+}
+.columns {
+  padding-left: 0.9375em;
+  padding-right: 0.9375em;
+  position: relative;
+  width: 100%;
+  float: left;
+}
+.alignCenter {
+  text-align: center;
+}

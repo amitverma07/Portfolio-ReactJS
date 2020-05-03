@@ -9,7 +9,7 @@
 
 - To display information about me,
 
-![srceen shot](https://raw.githubusercontent.com/amitverma07/Portfolio-ReactJS/master/readm.PNG)
+![srceen shot](https://raw.githubusercontent.com/amitverma07/Portfolio-ReactJS/master/readm.png)
 
 ## Technology Used
 

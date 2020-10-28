@@ -53,10 +53,10 @@ function Body() {
               <h1>Hello, I'm Amit <span role="img" aria-label="hifi">👋</span></h1>
               <hr align="center" />
               <p>
-                I'm a full-time student at <a href="https://mitt.ca/" id="github">MITT</a>
+                I'm a Software Developer graduate from <a href="https://mitt.ca/" id="github">MITT</a>
               </p>
               <p>
-                Right now I am seeking full-time position as Full Stack Developer
+                Right now I am seeking a full-time position as Full-Stack Software Developer
               </p>
 
               <p>
